@@ -1,2 +1,2 @@
-# stats-cli
-NBA Stats CLI
+# Stats CLI 
+- Data is scraped from BasketballReference.
